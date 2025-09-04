@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi soy Jorge Castillo👋
 
+Front‑End Developer
+
+Desarrollo interfaces web claras, accesibles y rápidas con HTML, CSS y JavaScript. Trabajo mobile‑first, uso BEM para mantener CSS escalable y me enfoco en una experiencia de usuario limpia.
 <!--
 **jorge-castillo-l/jorge-castillo-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
