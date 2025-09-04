@@ -1,4 +1,4 @@
-############################################################### Hola, soy Jorge Castillo👋
+## Hola, soy Jorge Castillo👋
 
 Front‑End Developer
 
