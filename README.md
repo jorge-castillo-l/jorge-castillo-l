@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Jorge Castillo</h1>
+<h1 align="center">Hi 👋, I'm Jorge Castillo</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
 - 🌱 I’m currently learning **React**
